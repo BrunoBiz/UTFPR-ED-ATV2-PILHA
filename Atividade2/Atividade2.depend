@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635872583 source:c:\users\usuario\desktop\utf\ed\trabalho 2\atividade2\atividade2.c
+	<stdio.h>
+	<stdlib.h>
+	"atividade2.h"
+
+1635872577 c:\users\usuario\desktop\utf\ed\trabalho 2\atividade2\atividade2.h
+
+1635872231 source:c:\users\usuario\desktop\utf\ed\trabalho 2\atividade2\main.c
+	"atividade2.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
